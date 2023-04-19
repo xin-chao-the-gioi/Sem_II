@@ -12,7 +12,7 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-sm navbar-light bg-light container-fruid">
-        <a class="navbar-brand" href="/">Logo</a>
+        <a class="navbar-brand" href="/">Logoaaa</a>
         <div class="collapse navbar-collapse" id="collapsibleNavId">
               <ul class="navbar-nav mt-2 mt-lg-0 col-lg-6">
                 <li class="nav-item active bar-link">
